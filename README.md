@@ -45,5 +45,4 @@
 ### Name:KARTHIKEYAN R
 ### Register Number:212222240046
 
-## Result: 
-### Thus the simulation on the Preprocessing in additive manufacturing is completed.
+## Result: Thus the simulation on the Preprocessing in additive manufacturing is completed.
